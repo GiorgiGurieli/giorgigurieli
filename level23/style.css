@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: end;
+
+}
+
+.left{
+    text-align: center;
+}
+table{
+    border: ;
+}
