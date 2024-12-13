@@ -27,17 +27,17 @@
 
 
 
-#print("goa")
-#print("goa")
-#print("goa")
-#print("goa")
-#print("goa")
-#print("goa")
-#print("goa")
-#print("------------------------------")
+print("goa")
+print("goa")
+print("goa")
+print("goa")
+print("goa")
+print("goa")
+print("goa")
+print("------------------------------")
 
-#for i in range(10):
- #print("goa")
+for i in range(10):
+ print("goa")
 
 
 print("start")

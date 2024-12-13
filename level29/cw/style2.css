@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+}
+
+.center{
+    text-align: center;
+}
+
+.oswald-uniquifier {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: yellow;
+  }
+ 
+.bebas-neue-regular{
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: yellow;
+}
